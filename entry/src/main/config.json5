@@ -1,0 +1,17 @@
+{
+  "module": {
+    "distro": {
+      "compatibility": "ohos_min",
+      "distribution": "standard"
+    },
+    "reqPermissions": [11111
+      "ohos.permission.INTERNET"
+    ],
+    "features": [
+      {
+        "name": "SystemCapability.Ability.CrossPlatform",
+        "version": "1.0"
+      }
+    ]
+  }
+}
